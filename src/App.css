@@ -1,0 +1,325 @@
+.Header{
+ padding-top: 14px; 
+    background-color: rgb(245, 245, 245); 
+
+}
+
+
+.inputsize{
+  width: 50%!important;
+  border-color: #2196F3!important;
+  outline-style: none!important;
+  padding-left: 15px!important;
+   margin-left: 15px;
+}
+
+.has-search .formcontrol {
+  padding-left: 30px!important;
+  outline-style: none!important;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+   display: block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  
+}
+ 
+
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid black;
+  float: left;
+  width: 37%;
+  background-color:white
+}
+
+form.example button {
+  float: left;
+  width: 10%;
+  padding: 10px;
+ background-color: #002f34;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+.inpt-size{
+  height: 47px!important;
+  border-color: #2196F3!important;
+}
+
+
+.login1{
+    border-style: none;
+    outline-style: none!important;
+ font-size: 20px;
+background-color: rgb(245, 245, 245);
+padding-top: 6px;
+font-weight: bold;
+}
+ 
+
+ .sell1{
+     border-radius: 20px;
+    width: 65px;
+    height: 40px;
+      border-color: #06f385!important;
+      border-style: solid;
+    position: relative;
+    display: inline-block;
+   text-align: center;
+    outline-style: none!important;
+  }
+
+
+.hnav  {
+ 
+ padding: 8px;
+ display: inline-block;
+  
+}
+
+.ads{
+    height: 252px;
+    position: absolute;
+    left: 0;
+    right: 0;
+width: 100%;
+}
+
+.ads2{
+    height: 252px;
+    position: absolute;
+    left: 0;
+    right: 0;
+width: 100%;
+
+}
+
+.nav-full{
+box-shadow: 1px 1px 1px 1px;
+background-color:  white;
+}
+
+
+.overfloe{
+    background-color: aqua!important;
+}
+
+
+/* body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
+.column {
+  float: left;
+  width: 100%;
+  padding: 0 10px;
+}
+
+ 
+.row {margin: 0 -5px;}
+
+ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ 
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+ 
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 8px;
+  text-align: center;
+  background-color: #f1f1f1;
+ 
+}
+  */
+
+ 
+
+select#selectoption {
+  border-left:none;
+  padding:none;
+}
+
+input#datahere {
+  position:relative;
+  border-right:none;
+  padding:none;
+}
+
+
+.footernew{
+ background-color: #ebeeef;
+ border-top: 1px solid rgba(0,47,52,.2);
+ font-size: 15px;
+}
+
+.footernew1{
+  background-color: #002f34;
+  color: white;
+  font-size: 16px;
+}
+
+
+
+tr{
+  color: rgba(0, 1, 52, 0.64);
+}
+
+.span1{
+  margin-left: 25px;
+ 
+}
+.span1,.span2,.span3,.span4,.span5,.span6,.span7{
+  color: black!important;
+  font-size: 17.5px;
+}
+ 
+
+
+.log{
+  color: #06f385;
+  background-color: red;
+  text-align: center;
+}
+
+
+
+
+
+.Fullmenu{
+  position: static !important;
+  color: black!important;
+  font-weight: bold;
+}
+
+.newmenu {
+  padding: 20px 20px;
+  width: 100%;
+}
+
+ 
+.newmenu > div > li > ul > li {
+  list-style: none;
+  color: black!important;
+  font-weight: bold;
+   
+
+}
+
+.newmenu > div > li > ul > li > a {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.428571429;
+  color: black;
+  white-space: normal;
+}
+
+.newmenu > div > li > ul > li >a:hover, 
+.newmenu > div > li > ul > li {
+  text-decoration: none;
+  color: #237c23;
+   
+}
+
+.cards{
+  width: 100%;
+  height: auto;
+ 
+}
+.card{
+  margin: 7px;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+background-color: #06f385;
+width: 23.50%;
+float: left;
+
+}
+
+.card-img{
+ max-width: 100%;
+
+  height: 225px;
+
+}
+ 
+.card-info{
+  font-size: 14px;
+}
+
+.card-category{
+  font-size: 14px;
+
+}
+
+ 
+
+
+@media (max-width: 768px){
+.card{
+  float: none;
+  margin: 5%;
+  width: 90%;
+ 
+  }
+
+}
+
+.slideimg{
+  width: 20%;
+  height: 10%;
+  margin-right: 50px;
+ 
+}
+
+.parag{
+  text-align: center;
+  font-size: 13px;
+}
+
+
+
+.socialapp{
+  width: 70%;
+}
+
+
+
+.profile{
+  width: 10%;
+}
+
+
+
+ 
+
+
+
+
+
+
+
+ 
